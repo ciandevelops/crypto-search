@@ -1,3 +1,13 @@
+## Crypto Tracker
+
+I decided to use the [CoinGecko API](https://www.coingecko.com/en/api) to show the prices of the Top 100 Cryptocurrencies.
+
+I used [Axios](https://axios-http.com/) to 'get' the data from the API.
+
+I styled this app with both [TailwindCSS](https://tailwindcss.com/docs/guides/create-react-app) and CSS3. 
+
+I used React Hooks - 'useEffect' and 'useState'.
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
