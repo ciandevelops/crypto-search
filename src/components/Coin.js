@@ -20,8 +20,8 @@ const Coin = ({
       </div>
       <div className="coin-row flex justify-between p-4">
         <div className="coin flex">
-          <img src={image} alt="crypto logo" className="h-[30px] w-[30px]" />
-          <p className="text-xl font-bold ml-2">{name}</p>
+          <img src={image} alt="crypto logo" className="h-[15px] w-[15px]" />
+          <p className="text-xs font-bold ml-2">{name}</p>
           <p className="coin-symbol hidden md:flex">{symbol}</p>
         </div>
 
